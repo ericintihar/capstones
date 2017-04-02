@@ -1,0 +1,23 @@
+2/2/2017 3:54:47 PM Dr. Salt C2 $16.10 $14.60
+2/2/2017 3:57:17 PM Potato Crisps A1 $25.00 $21.95
+2/2/2017 3:57:23 PM Dr. Salt C2 $21.95 $20.45
+2/2/2017 3:57:33 PM Little League Chew D2 $20.45 $19.50
+2/3/2017 8:56:17 AM Potato Crisps A1 $20.00 $16.95
+2/3/2017 8:58:25 AM Potato Crisps A1 $4.00 $0.95
+2/3/2017 8:59:42 AM Potato Crisps A1 $20.00 $16.95
+2/3/2017 9:00:15 AM Little League Chew D2 $1.00 $0.05
+2/3/2017 9:05:36 AM Little League Chew D2 $1.00 $0.05
+2/3/2017 9:06:24 AM Grain Waves A3 $3.00 $0.25
+2/3/2017 9:57:50 AM Grain Waves A3 $20.00 $17.25
+2/3/2017 9:57:55 AM Chiclets D3 $17.25 $16.50
+2/3/2017 9:58:01 AM Stackers A2 $16.50 $14.75
+2/3/2017 10:16:05 AM Potato Crisps A1 $30.00 $26.95
+2/3/2017 10:16:12 AM Mountain Melter C3 $26.95 $25.45
+2/3/2017 10:16:21 AM Stackers A2 $25.45 $23.70
+2/3/2017 11:01:38 AM Potato Crisps A1 $15.00 $11.95
+2/3/2017 11:01:44 AM Dr. Salt C2 $11.95 $10.45
+2/3/2017 11:01:51 AM Stackers A2 $10.45 $8.70
+2/3/2017 11:02:28 AM Potato Crisps A1 $10.00 $6.95
+2/3/2017 11:02:35 AM Triplemint D4 $6.95 $6.20
+2/3/2017 11:13:45 AM Potato Crisps A1 $50.00 $46.95
+3/30/2017 1:07:35 PM Potato Crisps A1 $5.00 $1.95
